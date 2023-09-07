@@ -1,0 +1,1 @@
+My own journey through [The Odin Project](https://www.theodinproject.com/). Enjoy :)
